@@ -1,4 +1,4 @@
-package reverse;
+package stringalgo.reverse;
 
 import java.util.Scanner;
 
@@ -32,7 +32,7 @@ public class Reverse {
     }
 
     private String getString(String mode) {
-        System.out.print("Enter String to reverse" + mode + ": ");
+        System.out.print("Enter String to stringalgo.reverse" + mode + ": ");
         return scanner.nextLine();
     }
 }

@@ -1,4 +1,4 @@
-package reverse;
+package stringalgo.reverse;
 
 public class Main {
 

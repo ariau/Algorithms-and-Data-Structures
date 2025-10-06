@@ -1,4 +1,4 @@
-package nonrepeatedchar;
+package stringalgo.nonrepeatedchar;
 
 import java.util.Scanner;
 
